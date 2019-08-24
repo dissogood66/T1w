@@ -19026,6 +19026,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.plugins_.Sprite.prototype.cnds.IsVisible,
 	cr.system_object.prototype.acts.GoToLayout,
-	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked
+	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
+	cr.plugins_.Browser.prototype.acts.Close
 ];};
 
