@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1567833810,
+	"version": 1568219439,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -33,7 +33,6 @@
 		"images/momster-sheet0.png",
 		"images/momster-sheet1.png",
 		"images/momster-sheet2.png",
-		"images/momster-sheet3.png",
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
@@ -54,6 +53,8 @@
 		"images/d-sheet0.png",
 		"images/hp2-sheet0.png",
 		"images/sprite26-sheet0.png",
+		"images/sprite27-sheet0.png",
+		"images/sprite28-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
