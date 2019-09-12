@@ -20494,10 +20494,10 @@ cr.behaviors.solid = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Browser,
-	cr.plugins_.Mouse,
 	cr.plugins_.Keyboard,
-	cr.plugins_.TiledBg,
+	cr.plugins_.Mouse,
 	cr.plugins_.Text,
+	cr.plugins_.TiledBg,
 	cr.plugins_.Sprite,
 	cr.behaviors.Platform,
 	cr.behaviors.Flash,
